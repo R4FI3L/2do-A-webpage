@@ -3,3 +3,5 @@
 A final project for the class of web development in de Politecnico Vicente Aquilino Santos(2017)
 
 <img src="https://i.imgur.com/JTSJZXT.png"/>
+
+Ver sitio web: https://2doainformaticaforever.netlify.app/index.html
